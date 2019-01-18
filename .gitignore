@@ -1,0 +1,6 @@
+node_modules
+*.docx
+*.pptx
+package-lock.json
+*.sqlite
+notes.txt
